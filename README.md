@@ -1,3 +1,1 @@
-# First Commit from collaborator 
-
-# Second Commit from master
+# First commit from rizq ramadhan
